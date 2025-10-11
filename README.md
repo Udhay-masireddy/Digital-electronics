@@ -1,1 +1,1 @@
-It is sequence detector circuit made with flipflops
+In this project i uploaded projects related to digital electronics
